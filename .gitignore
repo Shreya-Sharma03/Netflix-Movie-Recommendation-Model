@@ -1,0 +1,6 @@
+*.csv
+*.pkl
+!similarity.pkl
+!movie_dict.pkl
+.ipynb_checkpoints/
+__pycache__/
